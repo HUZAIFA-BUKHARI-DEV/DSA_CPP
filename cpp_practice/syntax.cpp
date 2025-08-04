@@ -5,7 +5,6 @@
 #include <iostream> // Include the iostream header for input/output operations
 using namespace std; // Use the standard namespace to avoid prefixing std:: before standard functions and objects
 int main() { // Main function where the program execution starts
-
     cout << "Hello, World!" << endl; // this prints "Hello, World!" to the console
 
     return 0; // Return 0 indicates that the program ended successfully
